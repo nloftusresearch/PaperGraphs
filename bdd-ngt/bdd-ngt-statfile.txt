@@ -1,0 +1,4 @@
+-sort {"min_hits": 4, "iou_threshold": 0.44365498184699953, "max_age": 59}
+-deepsort {"min_hits": 6, "iou_threshold": 0.5107204830796102, "max_age": 7, "matching_threshold": 0.06808270312251076}
+-motiontrack {"first_track_thresh": 0.6231740325603723, "second_track_thresh": 0.24193809099682775, "det_thresh": 0.4914644649918766, "motion_thresh": 116, "buffer_size": 10, "first_match_thresh": 0.8271784675143043, "second_match_thresh": 0.9567867728191135, "motion_match_thresh": 0.9740052833401781, "unconfirmed_match_thresh_iou": 0.8706034189091326, "unconfirmed_match_thresh_motion": 0.890096296117189}
+-sparsetrack {"detection_threshold": 0.5447411578889517, "remember_threshold": 2, "initialization_threshold": 3, "duplicate_iou_threshold": 0.6648628294821612}
