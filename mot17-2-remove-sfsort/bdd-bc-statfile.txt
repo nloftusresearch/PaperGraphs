@@ -1,0 +1,2 @@
+resnet-deepsort {"min_hits": 3, "iou_threshold": 0.49500040328487055, "max_age": 5, "matching_threshold": 0.31245501141503007}
+mobile-deepsort {"min_hits": 5, "iou_threshold": 0.761970614992335, "max_age": 5, "matching_threshold": 0.24415272480353573}
